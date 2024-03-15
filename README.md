@@ -1,7 +1,11 @@
 <body>
  <center>
 
-<h1 align="center">Hello Minnasan 👋</h1>
+<h1 align="center">**Hello Minnasan 👋**</h1>
+
+<div id="header" align="center">
+  <img src="https://github.com/TegarSa/TegarSatria/blob/main/WhatsApp%20Image%202024-03-15%20at%2020.49.45%20(1).jpeg?raw=true" width="700"/>
+</div>
 
 <div align="center">
   
@@ -21,11 +25,15 @@ I'M College Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 <br><br>
 </div>
 
-<img align="right" width="38%" src=""/>
+<div><br><br>
+<h2 align="center"> 📖My Github Static </h2>
+<pre>
+<img align="right" width="45%" src="https://i.redd.it/rrq1sabkxsr71.gif"/>
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-
+</pre>
 <br><br>
+</div>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
