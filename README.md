@@ -12,14 +12,6 @@
   <p><strong>Name</strong>: Tegar</p>
   <p><strong>Location</strong>: Java, Indonesia</p>
   <p><strong>Education</strong>: Informatics Engineering Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/)</p>
-  <p><strong>Interests</strong>:</p>
-  <ul>
-    <li>🎮 Gaming</li>
-    <li>🎶 Music</li>
-    <li>📚 Reading (especially about Japan and technology)</li>
-    <li>🍜 Culinary adventures (Ramen enthusiast)</li>
-    <li>🐾 Animal lover</li>
-  </ul>
 </div>
 
 ---
@@ -53,13 +45,8 @@
 ---
 
 <div align="center">
-  <h3>🌟 Fun Facts</h3>
-  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Fun Facts Animation" width="300"/>
-  <ul>
-    <li>I’m currently exploring <strong>Japanese language and culture</strong>.</li>
-    <li>My favorite anime: Attack on Titan (進撃の巨人).</li>
-    <li>I'm passionate about combining <strong>technology</strong> with <strong>artistic creativity</strong>.</li>
-  </ul>
+  <h3>💥 TEGAR SATRIA 💥</h3>
+  <img src="https://media.tenor.com/9p3kxSTUbw0AAAAC/8-bit-text-animation.gif" alt="8-bit Tegar Satria Animation" width="400"/>
 </div>
 
 ---
