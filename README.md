@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>🌸 About Me</h3>
-  <img src="[https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif](https://media0.giphy.com/media/l3vRfp3dlLgkeWBqg/200.gif?cid=6c09b952kyutslay3kn3jvb95tglj9mv0env7am1tstpuklx&ep=v1_gifs_search&rid=200.gif&ct=g)" alt="Hello Animation" width="300"/>
+  <img src="https://img.itch.zone/aW1nLzExNDY2MjYxLmdpZg==/original/zcTbxy.gif" alt="Hello Animation" width="300"/>
   <p><strong>Tegar Satria Iman Saputra</strong></p>
   <p><strong>Location</strong>: Java, Indonesia</p>
   <p><strong>Education</strong>: Informatics Engineering Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/)</p>
