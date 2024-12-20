@@ -9,7 +9,7 @@
 <div align="center">
   <h3>🌸 About Me</h3>
   <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" alt="Hello Animation" width="300"/>
-  <p><strong>Name</strong>: Tegar</p>
+  <p><strong>Tegar Satria Iman Saputra</strong></p>
   <p><strong>Location</strong>: Java, Indonesia</p>
   <p><strong>Education</strong>: Informatics Engineering Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/)</p>
 </div>
@@ -46,7 +46,7 @@
 
 <div align="center">
   <h3>💥 TEGAR SATRIA 💥</h3>
-  <img src="https://media.tenor.com/9p3kxSTUbw0AAAAC/8-bit-text-animation.gif" alt="8-bit Tegar Satria Animation" width="400"/>
+  <img src="[https://media.tenor.com/9p3kxSTUbw0AAAAC/8-bit-text-animation.gif](https://i.pinimg.com/originals/31/68/c0/3168c09eeeb529be5b321575fe56b02b.gif)" alt="8-bit Tegar Satria Animation" width="400"/>
 </div>
 
 ---
