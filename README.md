@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>🌸 About Me</h3>
-  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" alt="Hello Animation" width="300"/>
+  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif" alt="Hello Animation" width="300"/>
   <p><strong>Tegar Satria Iman Saputra</strong></p>
   <p><strong>Location</strong>: Java, Indonesia</p>
   <p><strong>Education</strong>: Informatics Engineering Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/)</p>
