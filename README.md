@@ -46,7 +46,7 @@
 
 <div align="center">
   <h3>💥 TEGAR SATRIA 💥</h3>
-  <img src="[https://media.tenor.com/9p3kxSTUbw0AAAAC/8-bit-text-animation.gif](https://i.pinimg.com/originals/31/68/c0/3168c09eeeb529be5b321575fe56b02b.gif)" alt="8-bit Tegar Satria Animation" width="400"/>
+  <img src="https://media0.giphy.com/media/RAWg7H6ETkOYeFJs6S/giphy.gif?cid=6c09b952pmx70enr4bh03w4cqk5sd66ktv9om5mz9dmejsns&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="8-bit Tegar Satria Animation" width="400"/>
 </div>
 
 ---
