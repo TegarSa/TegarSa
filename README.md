@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは! 👋 Welcome to My GitHub Profile!</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/VBlSwDU0e9UAAAAd/japanese-lanterns.gif" alt="Japanese Scenery" width="600"/>
+  <img src="https://media.tenor.com/VBlSwDU0e9UAAAAd/japanese-lanterns.gif" alt="Japanese Scenery" width="1000"/>
 </div>
 
 ---
@@ -66,7 +66,7 @@
 
 <div align="center">
   <h3>💥 TEGAR SATRIA 💥</h3>
-  <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" alt="8-bit Tegar Satria Animation" width="600"/>
+  <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" alt="8-bit Tegar Satria Animation" width="800"/>
 </div>
 
 ---
