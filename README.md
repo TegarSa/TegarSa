@@ -10,8 +10,10 @@
   <h3>🌸 About Me</h3>
   <img src="https://img.itch.zone/aW1nLzExNDY2MjYxLmdpZg==/original/zcTbxy.gif" alt="Hello Animation" width="300"/>
   <p><strong>Tegar Satria Iman Saputra</strong></p>
+  <p><em>A passionate Informatics Engineering student eager to explore and innovate in the world of technology. I am constantly learning new programming languages, tools, and frameworks to expand my skill set and contribute to meaningful projects. With a deep interest in software development and problem-solving, I aim to bring creative solutions to real-world challenges.</em></p>
   <p><strong>Location</strong>: Java, Indonesia</p>
-  <p><strong>Education</strong>: Informatics Engineering Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/)</p>
+  <p><strong>Education</strong>: Informatics Engineering Student at <a href="https://www.akprind.ac.id/" target="_blank">IST AKPRIND Yogyakarta</a></p>
+  <p><strong>Specialties</strong>: Full-stack development, problem-solving, and software design. Passionate about building scalable and efficient systems.</p>
 </div>
 
 ---
@@ -25,12 +27,14 @@
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   </p>
-  <h4>Tools</h4>
+  <h4>Tools & Frameworks</h4>
   <p>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   </p>
 </div>
 
