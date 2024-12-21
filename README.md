@@ -10,10 +10,10 @@
   <h3>🌸 About Me</h3>
   <img src="https://img.itch.zone/aW1nLzExNDY2MjYxLmdpZg==/original/zcTbxy.gif" alt="Hello Animation" width="300"/>
   <p><strong>Tegar Satria Iman Saputra</strong></p>
-  <p><em>I am an Informatics Engineering student with a deep passion for software development and innovation. I specialize in building scalable and efficient systems, and I’m always eager to explore new technologies and contribute to meaningful projects. My goal is to use my skills to solve real-world problems and make a positive impact in the tech community.</em></p>
+  <p><em>Passionate Informatics Engineering student specializing in software development, with a focus on building scalable and efficient systems. I'm always learning new technologies to contribute to meaningful projects and make a positive impact in the tech world.</em></p>
   <p><strong>Location</strong>: Java, Indonesia</p>
   <p><strong>Education</strong>: Informatics Engineering Student at <a href="https://www.akprind.ac.id/" target="_blank">IST AKPRIND Yogyakarta</a></p>
-  <p><strong>Specialties</strong>: Full-stack development, machine learning, problem-solving, and software architecture. Passionate about developing solutions that make a difference.</p>
+  <p><strong>Specialties</strong>: Full-stack development, software engineering, and problem-solving. Continuously learning and improving skills.</p>
 </div>
 
 ---
@@ -51,7 +51,7 @@
 
 <div align="center">
   <h3>🚀 Featured Projects</h3>
-  <p>Check out some of my notable projects below:</p>
+  <p>Here are some of the projects I've worked on:</p>
   <p>
     <a href="https://github.com/TegarSa/project-name" target="_blank">
       <img src="https://img.shields.io/badge/Project%20Name-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project Name"/>
@@ -66,7 +66,7 @@
 
 <div align="center">
   <h3>💥 TEGAR SATRIA 💥</h3>
-  <img src="https://media0.giphy.com/media/RAWg7H6ETkOYeFJs6S/giphy.gif?cid=6c09b952pmx70enr4bh03w4cqk5sd66ktv9om5mz9dmejsns&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="8-bit Tegar Satria Animation" width="400"/>
+  <img src="https://favim.com/pd/p/orig/2019/02/11/8bit-city-8-bit-Favim.com-6875655.gif" alt="8-bit Tegar Satria Animation" width="800"/>
 </div>
 
 ---
