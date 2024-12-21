@@ -66,7 +66,7 @@
 
 <div align="center">
   <h3>💥 TEGAR SATRIA 💥</h3>
-  <img src="https://favim.com/pd/p/orig/2019/02/11/8bit-city-8-bit-Favim.com-6875655.gif" alt="8-bit Tegar Satria Animation" width="800"/>
+  <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" alt="8-bit Tegar Satria Animation" width="600"/>
 </div>
 
 ---
