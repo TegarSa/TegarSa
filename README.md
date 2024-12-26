@@ -86,5 +86,5 @@
 <div align="center">
   <h3>🌐 Motto</h3>
   <img src="https://media.tenor.com/KgE26fErnigAAAAd/japan-temple.gif" alt="Motto Animation" width="400"/>
-  <p><em>"The journey of a thousand miles begins with a single step."</em><br>- Lao Tzu</p>
+  <p><em>"The journey of a thousand miles begins with a single step."</em><br>- Trust Me</p>
 </div>
