@@ -12,7 +12,7 @@
   <p><strong>Tegar Satria Iman Saputra</strong></p>
   <p><em>I am an enthusiastic and dedicated Informatics Engineering student with a strong passion for software development and problem-solving. With experience in multiple programming languages such as Java, Python, JavaScript, and C++, I strive to build efficient, scalable, and innovative solutions. I am particularly passionate about creating user-friendly applications, optimizing performance, and collaborating with like-minded professionals to bring impactful projects to life.</em></p>
   <p><strong>Location</strong>: Java, Indonesia</p>
-  <p><strong>Education</strong>: Informatics Engineering Student at <a href="https://www.akprind.ac.id/" target="_blank">IST AKPRIND Yogyakarta</a></p>
+  <p><strong>Education</strong>: Informatics Engineering Student at <a href="https://www.akprind.ac.id/" target="_blank">AKPRIND University Indonesia</a></p>
   <p><strong>Specialties</strong>: Full-stack development, software engineering, and problem-solving. Continuously learning and improving skills.</p>
 </div>
 
