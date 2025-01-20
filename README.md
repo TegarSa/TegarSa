@@ -73,7 +73,7 @@
 
 <div align="center">
   <h3>🤝 Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/tegarsatria/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
