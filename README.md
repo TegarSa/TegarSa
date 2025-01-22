@@ -42,14 +42,6 @@
 ---
 
 <div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=TegarSa&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TegarSa&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</div>
-
----
-
-<div align="center">
   <h3>🚀 Featured Projects</h3>
   <p>Here are some of the projects I've worked on:</p>
   <p>
