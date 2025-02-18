@@ -45,30 +45,3 @@
     <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   </p>
 </div>
-
----
-
-<div align="center">
-  <h3>🚀 Featured Projects</h3>
-  <p>Here are some of the projects I've worked on:</p>
-  <p>
-    <a href="https://github.com/TegarSa/MyRongsok" target="_blank">
-      <img src="https://img.shields.io/badge/Project%20Name-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="MyRongsok"/>
-    </a>
-    <a href="https://github.com/TegarSa/Project-Inventory" target="_blank">
-      <img src="https://img.shields.io/badge/Project%20Name-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Inventory Management"/>
-    </a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h3>🤝 Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/tegarsatria/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
