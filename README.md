@@ -1,9 +1,4 @@
-<h1 align="center">
-  こんにちは! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My GitHub Profile!
-</h1>
-
 <div align="center">
-  <h2>🌸 About Me</h2>
   <img src="https://img.itch.zone/aW1nLzExNDY2MjYxLmdpZg==/original/zcTbxy.gif" alt="Hello Animation" width="100%" height="350"/>
   <p><strong>Tegar Satria Iman Saputra</strong></p>
   <p><em>I am an enthusiastic and dedicated Informatics Engineering student with a strong passion for software development and problem-solving. With experience in multiple programming languages such as Java, Python, JavaScript, and C++, I strive to build efficient, scalable, and innovative solutions. I am particularly passionate about creating user-friendly applications, optimizing performance, and collaborating with like-minded professionals to bring impactful projects to life.</em></p>
