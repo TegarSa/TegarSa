@@ -1,5 +1,22 @@
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzExNDY2MjYxLmdpZg==/original/zcTbxy.gif" alt="Hello Animation" width="100%" height="350"/>
+
+  ---
+  
+  <div align="center">
+  <a href="https://www.linkedin.com/in/tegarsatria">
+    <img src="https://img.shields.io/badge/-LinkedIn-6A5CB6?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/Tegar Sa/">
+    <img src="https://img.shields.io/badge/-Facebook-6A5CB6?style=flat&logo=Facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/tgrstr__/">
+    <img src="https://img.shields.io/badge/-Instagram-6A5CB6?style=flat&logo=Instagram&logoColor=white">
+  </a>
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TegarSa&right_color=%236A5CB6&right_text=white" />
+</div>
   <p>I am an enthusiastic and dedicated Informatics Engineering student with a strong passion for software development and problem-solving. With experience in multiple programming languages such as Java, Python, JavaScript, and C++, I strive to build efficient, scalable, and innovative solutions. I am particularly passionate about creating user-friendly applications, optimizing performance, and collaborating with like-minded professionals to bring impactful projects to life.</p>
   <p><strong>Location</strong>: Java, Indonesia</p>
   <p><strong>Education</strong>: Informatics Engineering Student at <a href="https://www.akprind.ac.id/" target="_blank">AKPRIND University Indonesia</a></p>
