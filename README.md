@@ -12,12 +12,12 @@
   - 🔥 Always learning & improving!<br>
 </p>
 
-  ---
+![RGB Flashing Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-  <h3>💻 Tech Stack</h3>
+ <h2>🎞️ Tech Stack</h2>
   <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" alt="8-bit Tegar Satria Animation" width="1000" height="250"/>
 
-  <h4>🔧 Front-end</h4>
+  <h4>💻 Front-end</h4>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Front-end Skills" width="200" height="50"/>
@@ -29,7 +29,7 @@
     </a>
   </p>
 
-  <h4>🔧 Back-end</h4>
+  <h4>⚙️ Back-end</h4>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Back-end Skills" width="200" height="50"/>
@@ -37,37 +37,37 @@
   </p>
   <p align="right">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rails,express" alt="RubyOnRails & Express" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=rails,rust" alt="RubyOnRails & Rust" width="200" height="50"/>
     </a>
   </p>
 
-  <h4>🔧 Full Stack</h4>
+  <h4>🌐 Full Stack</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,nextjs" alt="Full Stack Skills" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=js,go,angular" alt="Full Stack Skills" width="200" height="50"/>
     </a>
   </p>
 
-  <h4>🔧 Mobile</h4>
+  <h4>📱 Mobile</h4>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin,java" alt="Mobile Skills" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=kotlin,java,dart" alt="Mobile Skills" width="200" height="50"/>
     </a>
   </p>
   <p align="right">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=flutter,react" alt="Flutter" width="200" height="50"/>
     </a>
   </p>
 
-  <h4>🔧 Database</h4>
+  <h4>🗄️ Database</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase" alt="Database Skills" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,firebase" alt="Database Skills" width="200" height="50"/>
     </a>
   </p>
 
-  ---
+![RGB Flashing Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
   ## My GitHub Stats
   <p align="center">
