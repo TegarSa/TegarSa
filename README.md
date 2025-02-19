@@ -12,6 +12,8 @@
   - 🔥 Always learning & improving!<br>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="1000">
+
 ![RGB Flashing Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
  <h2>🎞️ Tech Stack</h2>
@@ -75,5 +77,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TegarSa&theme=radical" alt="Repos Per Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TegarSa&theme=radical" alt="Most Commit Language" />
   </p>
-
+  
 </div>
