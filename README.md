@@ -22,12 +22,12 @@
   <h4>💻 Front-end</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Front-end Skills" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=html,css,vue,tailwind" alt="Front-end Skills" width="200" height="50"/>
     </a>
   </p>
   <p align="right">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,tailwind" alt="React & Tailwind" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=vue,tailwind" alt="React & Tailwind" width="200" height="50"/>
     </a>
   </p>
 
