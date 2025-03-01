@@ -65,7 +65,7 @@
   <h4>🗄️ Database</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,firebase" alt="Database Skills" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,firebase,mongo" alt="Database Skills" width="200" height="50"/>
     </a>
   </p>
 
