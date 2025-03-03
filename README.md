@@ -6,7 +6,7 @@
 </h1>
 <p align="left">
   🚀  Tegar Satria Iman Saputra – Passionate Fullstack Developer & Problem Solver.<br>
-  - 🎓 Studying Informatics Engineering at [AKPRIND University]<br>
+  - 🎓 Studying Informatics Engineering at [AKPRIND University Indonesia]<br>
   - 💡 Enthusiastic about software development, performance optimization & UI/UX.<br>
   - 🌍 Based in Java, Indonesia<br>
   - 🔥 Always learning & improving!<br>
