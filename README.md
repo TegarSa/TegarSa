@@ -9,7 +9,7 @@
   - 🎓 Studying Informatics Engineering at [AKPRIND University Indonesia]<br>
   - 💡 Enthusiastic about software development, performance optimization & UI/UX.<br>
   - 🌍 Based in Java, Indonesia<br>
-  - 🔥 Always learning & improving!<br>
+  - 🔥 Always learning and improving!<br>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="1000">
