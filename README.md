@@ -4,8 +4,12 @@
 <h1 align="center">
   こんにちは! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My GitHub Profile!
 </h1>
+
+<p align="center">
+🚀  Tegar Satria Iman Saputra – Passionate Fullstack Developer & Problem Solver.<br>
+</p>
+
 <p align="left">
-  🚀  Tegar Satria Iman Saputra – Passionate Fullstack Developer & Problem Solver.<br>
   - 🎓 Studying Informatics Engineering at [AKPRIND University Indonesia]<br>
   - 💡 Enthusiastic about software development, performance optimization & UI/UX.<br>
   - 🌍 Based in Java, Indonesia<br>
