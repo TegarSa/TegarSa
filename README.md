@@ -25,14 +25,14 @@
   <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" alt="8-bit Tegar Satria Animation" width="1000" height="250"/>
 
   <h4>💻 Front-end</h4>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,vue,tailwind" alt="Front-end Skills" width="200" height="50"/>
     </a>
   </p>
   <p align="right">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vue,tailwind" alt="React & Tailwind" width="200" height="50"/>
+      <img src="https://skillicons.dev/icons?i=svelte,tailwind" alt="svelte & Tailwind" width="200" height="50"/>
     </a>
   </p>
 
