@@ -25,7 +25,7 @@
   <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" alt="8-bit Tegar Satria Animation" width="1000" height="250"/>
 
   <h4>💻 Front-end</h4>
-  <p align="left">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,vue,tailwind" alt="Front-end Skills" width="200" height="50"/>
     </a>
