@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-🚀  Tegar Satria Iman Saputra – Passionate Fullstack Developer & Problem Solver.<br>
+🚀  Tegar Satria Iman Saputra – Passionate Fullstack Developer and Problem Solver.<br>
 </p>
 
 <p align="left">
