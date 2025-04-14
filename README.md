@@ -11,7 +11,7 @@
 
 <p align="left">
   - 🎓 Studying Informatics Engineering at [AKPRIND University Indonesia]<br>
-  - 💡 Enthusiastic about software development, performance optimization & UI/UX.<br>
+  - 💡 Enthusiastic about software development, performance optimization and UI/UX.<br>
   - 🌍 Based in Java, Indonesia<br>
   - 🔥 Always learning & improving!<br>
   - 🌟 Currently, JavaScript, Ruby and Dart are my favorite technologies. as well as their frameworks Vue, Rails, and Flutter.<br>
