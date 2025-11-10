@@ -14,7 +14,7 @@
   - 💡 Enthusiastic about software development, performance optimization and UI/UX.<br>
   - 🌍 Based in Java, Indonesia<br>
   - 🔥 Always learning & improving!<br>
-  - 🌟 Currently, JavaScript, Ruby and Dart are my favorite technologies. as well as their frameworks Vue, Rails, and Flutter.<br>
+  - 🌟 Currently, JavaScript, Python, Ruby and Dart are my favorite technologies. as well as their frameworks Vue, Rails, and Flutter.<br>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="1000">
