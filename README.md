@@ -1,86 +1,111 @@
 <div align="center">
-  <img src="https://img.itch.zone/aW1nLzExNDY2MjYxLmdpZg==/original/zcTbxy.gif" alt="Hello Animation" width="100%" height="350"/>
 
-<h1 align="center">
-  こんにちは! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My GitHub Profile!
+<img src="https://img.itch.zone/aW1nLzExNDY2MjYxLmdpZg==/original/zcTbxy.gif" width="100%" height="350"/>
+
+<h1>
+  こんにちは! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <br/>
+  I'm Tegar Satria Iman Saputra
 </h1>
 
-<p align="center">
-🚀  Tegar Satria Iman Saputra – Passionate Fullstack Developer & Problem Solver.<br>
+<p>
+🚀 Fullstack Developer • Mobile Enthusiast • Problem Solver
 </p>
 
-<p align="left">
-  - 🎓 Studying Informatics Engineering at [AKPRIND University Indonesia]<br>
-  - 💡 Enthusiastic about software development, performance optimization and UI/UX.<br>
-  - 🌍 Based in Java, Indonesia<br>
-  - 🔥 Always learning & improving!<br>
-  - 🌟 Currently, JavaScript, Python, Ruby and Dart are my favorite technologies. as well as their frameworks Vue, Rails, and Flutter.<br>
+<p>
+🎓 Informatics Engineering Student at <b>AKPRIND University Indonesia</b><br>
+🌍 Java, Indonesia<br>
+🔥 Always learning & building scalable systems
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="1000">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
-![RGB Flashing Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+</div>
 
- <h2>🎞️ Tech Stack</h2>
-  <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" alt="8-bit Tegar Satria Animation" width="1000" height="250"/>
+---
 
-  <h4>💻 Front-end</h4>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,vue,tailwind" alt="Front-end Skills" width="200" height="50"/>
-    </a>
-  </p>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=svelte,tailwind" alt="svelte & Tailwind" width="200" height="50"/>
-    </a>
-  </p>
+## 🧑‍💻 About Me
 
-  <h4>⚙️ Back-end</h4>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Back-end Skills" width="200" height="50"/>
-    </a>
-  </p>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rails,rust" alt="RubyOnRails & Rust" width="200" height="50"/>
-    </a>
-  </p>
+- 💡 Passionate about **software development**, **performance optimization**, and **UI/UX**
+- 🌱 Currently focusing on **Fullstack & Mobile Development**
+- 🛠 Favorite technologies:
+  **JavaScript, Python, Ruby, Dart**
+- ⚡ Frameworks I love:
+  **Vue, Rails, Flutter**
 
-  <h4>🌐 Full Stack</h4>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,go,angular" alt="Full Stack Skills" width="200" height="50"/>
-    </a>
-  </p>
+---
 
-  <h4>📱 Mobile</h4>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin,java,dart" alt="Mobile Skills" width="200" height="50"/>
-    </a>
-  </p>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,react" alt="Flutter" width="200" height="50"/>
-    </a>
-  </p>
+## 🎞️ Tech Stack
 
-  <h4>🗄️ Database</h4>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,firebase,mongo" alt="Database Skills" width="200" height="50"/>
-    </a>
-  </p>
+<img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif" width="100%" height="250"/>
 
-![RGB Flashing Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+### 💻 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Vue](https://skillicons.dev/icons?i=vue)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Svelte](https://skillicons.dev/icons?i=svelte)
 
-  ## My GitHub Stats
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TegarSa&theme=radical" alt="Stats Card" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TegarSa&theme=radical" alt="Repos Per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TegarSa&theme=radical" alt="Most Commit Language" />
-  </p>
-  
+### ⚙️ Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Rails](https://skillicons.dev/icons?i=rails)
+![Rust](https://skillicons.dev/icons?i=rust)
+
+### 📱 Mobile
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![React](https://skillicons.dev/icons?i=react)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Java](https://skillicons.dev/icons?i=java)
+![Dart](https://skillicons.dev/icons?i=dart)
+
+### 🗄️ Database & Tools
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongo)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+
+---
+
+## 📂 Featured Projects
+
+### 📱 Mobile Projects
+
+| Name | Description | Tech | Type |
+|-----|------------|------|------|
+| Bank Sampah App | Aplikasi pengelolaan bank sampah untuk admin | Flutter, Firebase | Mobile |
+| MyTravelEats | Aplikasi rekomendasi makanan & minuman | Flutter, REST API | Mobile |
+
+---
+
+### 🌐 Web Projects
+
+| Name | Description | Tech | Type |
+|-----|------------|------|------|
+| BLUD Website | Migrasi WordPress ke Laravel untuk keamanan | Laravel, MySQL | Private |
+| BUMDes Platform | Dashboard & artikel berbasis Laravel | Laravel, Tailwind | Private |
+| Portfolio Website | Personal developer portfolio | Vue, Tailwind | Public |
+
+---
+
+### 🔗 API Projects
+
+| Name | Description | Tech | Type |
+|-----|------------|------|------|
+| Auth API | Login & Register API | Node.js, Express | API |
+| Travel API | API makanan & minuman publik | REST API | API |
+| Bank Sampah API | Backend aplikasi bank sampah | Firebase | API |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+
+✨ Thanks for visiting my profile ✨  
+
 </div>
