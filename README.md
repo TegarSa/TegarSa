@@ -28,38 +28,38 @@
 </p>
 
 <h4 align="center">💻 Front-end</h4>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,vue,tailwind" alt="Front-end Skills" width="200" height="50" />
   </a>
 </p>
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,tailwind" alt="svelte & Tailwind" width="200" height="50" />
   </a>
 </p>
 
 <h4 align="center">⚙️ Back-end</h4>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Back-end Skills" width="200" height="50" />
   </a>
 </p>
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rails,rust" alt="RubyOnRails & Rust" width="200" height="50" />
   </a>
 </p>
 
 <h4 align="center">🌐 Full Stack</h4>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,go,angular" alt="Full Stack Skills" width="200" height="50" />
   </a>
 </p>
 
 <h4 align="center">📱 Mobile</h4>
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,dart" alt="Mobile Skills" width="200" height="50" />
   </a>
@@ -89,11 +89,12 @@
 |------|------------|------|------|
 | [SCM Konveksi](https://github.com/TegarSa/SCM-Konveksi) | Integrated Supply Chain Management system for the garment industry, covering Procurement, Warehouse, Inventory, and Logistics modules with real-time stock synchronization to reduce manual errors. | Laravel, MySQL, Bootstrap | Public |
 | [Personal Portfolio Website](https://github.com/TegarSa/My-Port) | Modern and responsive personal portfolio website showcasing profile, projects, and skills with smooth animations and fast navigation to enhance personal branding. | React, Vite, Tailwind CSS | Public |
-| BLUD Website | Internship project at PT Syncore Indonesia. Development and maintenance of a Laravel-based web application including user authentication (email login, reCAPTCHA, password reset), SEO-optimized article module, admin dashboard, and system debugging. | Laravel, Bootstrap, GSAP | Private |
+| [BLUD Website](https://blud.co.id) | Internship project at PT Syncore Indonesia involving development and maintenance of a Laravel-based web application, including secure authentication, SEO-optimized article modules, admin dashboard management, and system debugging. | Laravel, Bootstrap, GSAP | Private |
 | [Website Wisata Pengklik](https://github.com/TegarSa/Project-Web-Pengklik) | Tourism promotion website for Pengklik Madurejo, Sleman, providing destination information, photo galleries, event schedules, and local UMKM product listings to support digital tourism and local marketing. | PHP Native, JavaScript, MySQL | Public |
 | [Website Wisata Semilir](https://github.com/TegarSa/Project-Web-Terbah) | Informational tourism website presenting destination profiles, galleries, and visitor information with a simple and accessible interface. | PHP Native, JavaScript, MySQL | Public |
 | [Website Wisata Nglanggeran](https://github.com/TegarSa/Project-Web-Nglanggeran) | Tourism information website highlighting destinations, activities, and documentation for the Nglanggeran tourism area. | PHP Native, JavaScript, MySQL | Public |
 | [Website Gua Jepang Pundong](https://github.com/TegarSa/Project-Web-Gua-Jepang) | Historical and tourism information website featuring content and galleries about Gua Jepang Pundong as a cultural and tourist destination. | PHP Native, JavaScript, MySQL | Public |
+| [Website BUMDes](https://bumdes.id) | Internship project focused on developing and maintaining the article module and admin dashboard with SEO features, secure authentication, dynamic slug handling, and system debugging for village-owned enterprise manag
 
 ---
 
