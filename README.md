@@ -94,7 +94,7 @@
 | [Website Wisata Semilir](https://github.com/TegarSa/Project-Web-Terbah) | Informational tourism website presenting destination profiles, galleries, and visitor information with a simple and accessible interface. | PHP Native, JavaScript, MySQL | Public |
 | [Website Wisata Nglanggeran](https://github.com/TegarSa/Project-Web-Nglanggeran) | Tourism information website highlighting destinations, activities, and documentation for the Nglanggeran tourism area. | PHP Native, JavaScript, MySQL | Public |
 | [Website Gua Jepang Pundong](https://github.com/TegarSa/Project-Web-Gua-Jepang) | Historical and tourism information website featuring content and galleries about Gua Jepang Pundong as a cultural and tourist destination. | PHP Native, JavaScript, MySQL | Public |
-| [Website BUMDes](https://bumdes.id) | Internship project focused on developing and maintaining the article module and admin dashboard with SEO features, secure authentication, dynamic slug handling, and system debugging for village-owned enterprise manag
+| [Website BUMDes](https://bumdes.id) | Internship project focused on developing and maintaining the article module and admin dashboard with SEO features, secure authentication, dynamic slug handling, and system debugging for village-owned enterprise manag | Laravel, Bootstrap, MySQL | Private
 
 ---
 
