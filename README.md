@@ -81,8 +81,6 @@
 
 <h2 align="center">📂 Featured Projects</h2>
 
----
-
 <h2 align="center">🌐 Web Projects</h2>
 
 | Name | Description | Tech | Type |
