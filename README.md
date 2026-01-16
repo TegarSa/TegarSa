@@ -79,11 +79,11 @@
 
 ---
 
-## 📂 Featured Projects
+<h2 align="center">📂 Featured Projects</h2>
 
 ---
 
-## 🌐 Web Projects
+<h2 align="center">🌐 Web Projects</h2>
 
 | Name | Description | Tech | Type |
 |------|------------|------|------|
@@ -98,7 +98,7 @@
 
 ---
 
-## 📱 Mobile Projects
+<h2 align="center">📱 Mobile Projects</h2>
 
 | Name | Description | Tech | Type |
 |------|------------|------|------|
@@ -107,7 +107,7 @@
 
 ---
 
-## 🔗 API Projects
+<h2 align="center">🔗 API Projectsh2>
 
 | Name | Description | Tech | Type |
 |------|------------|------|------|
