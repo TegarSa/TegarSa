@@ -107,7 +107,7 @@
 
 ---
 
-<h2 align="center">🔗 API Projectsh2>
+<h2 align="center">🔗 API Projects<h2>
 
 | Name | Description | Tech | Type |
 |------|------------|------|------|
