@@ -81,6 +81,8 @@
 
 <h2 align="center">📂 Featured Projects</h2>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+
 <h2 align="center">🌐 Web Projects</h2>
 
 | Name | Description | Tech | Type |
